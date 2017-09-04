@@ -1,8 +1,3 @@
-/* 
- * Programmer: Waleed Ahsan
- * This program is written by me and this code shall not be copied for any other program
- */
-
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
