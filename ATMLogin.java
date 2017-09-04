@@ -1,11 +1,6 @@
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
-/* 
- * Programmer: Waleed Ahsan
- * This program is written by me and this code shall not be copied for any other program
- */
-
 public class ATMLogin {
 	public static void main(String args[])
 	{
