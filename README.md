@@ -1,2 +1,2 @@
 # Java
-These programs are all written in C Programming Language
+These programs are all written in Java
